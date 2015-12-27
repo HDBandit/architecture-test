@@ -1,0 +1,6 @@
+com/zyncro/architecture_test/model/Task.class
+com/zyncro/architecture_test/Application.class
+com/zyncro/architecture_test/controller/TaskController.class
+com/zyncro/architecture_test/service/impl/TaskServiceImpl.class
+com/zyncro/architecture_test/dto/TaskDTO.class
+com/zyncro/architecture_test/service/TaskService.class
